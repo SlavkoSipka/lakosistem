@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow any internal or private routes (ako ih budeš imao kasnije)
+Disallow: /admin/
+Disallow: /api/
+Disallow: /assets/
+
+# Sitemap location
+Sitemap: https://lakosistem.rs/sitemap.xml
