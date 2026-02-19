@@ -21,7 +21,7 @@ export function LoadingAnimation() {
 
               <div className="relative z-10 w-20 h-20 bg-white rounded-full flex items-center justify-center shadow-lg">
                 <img
-                  src="https://aislike.rs/lako/logo.png"
+                  src="/images/logo.png"
                   alt="Lako Sistem Logo"
                   className="w-16 h-16 object-contain"
                 />

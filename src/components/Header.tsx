@@ -43,7 +43,7 @@ export function Header({ onNavigate }: HeaderProps = {}) {
             className="flex items-center gap-3 cursor-pointer hover:opacity-90 transition-opacity"
           >
             <img
-              src="https://aislike.rs/lako/logo.png"
+              src="/images/logo.png"
               alt="Lako Sistem Logo"
               className="h-12 w-auto"
             />

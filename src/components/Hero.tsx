@@ -30,7 +30,7 @@ export function Hero({ onNavigate, animationsEnabled = false }: HeroProps = {}) 
     <section id="pocetna" className="relative pt-20 min-h-screen flex items-center" ref={ref as React.RefObject<HTMLElement>}>
       <div className="absolute inset-0 z-0">
         <img
-          src="https://aislike.rs/lako/hero1-min.png"
+          src="/images/hero1-min.png"
           alt="Lako Sistem"
           className="w-full h-full object-cover object-center"
         />

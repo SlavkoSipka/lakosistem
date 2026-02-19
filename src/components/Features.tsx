@@ -21,7 +21,7 @@ export function Features({ animationsEnabled = false }: FeaturesProps) {
   ];
   return (
     <section className="py-12 md:py-20 bg-white relative overflow-hidden">
-      <div className="absolute inset-0 z-0" style={{ backgroundImage: 'url(https://aislike.rs/lako/rolne.jpg)', backgroundSize: 'cover', backgroundPosition: 'center', opacity: 0.85 }}></div>
+      <div className="absolute inset-0 z-0" style={{ backgroundImage: 'url(/images/rolne.jpg)', backgroundSize: 'cover', backgroundPosition: 'center', opacity: 0.85 }}></div>
       <div className="absolute inset-0 z-[1] bg-gradient-to-r from-black/70 to-black/50"></div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid md:grid-cols-2 gap-8 md:gap-12 items-center">

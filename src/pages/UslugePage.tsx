@@ -37,7 +37,7 @@ export function UslugePage({ onNavigate }: UslugePageProps) {
           playsInline
           className="absolute inset-0 w-full h-full object-cover"
         >
-          <source src="https://aislike.rs/lako/WhatsApp Video 2025-10-27 at 17.15.15_37d69233.mp4" type="video/mp4" />
+          <source src="/images/WhatsApp Video 2025-10-27 at 17.15.15_37d69233.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-black/30"></div>
         <div className="relative max-w-5xl mx-auto px-4 text-center z-10">
@@ -86,7 +86,7 @@ export function UslugePage({ onNavigate }: UslugePageProps) {
           </div>
           <div className="rounded-2xl overflow-hidden shadow-lg">
             <img
-              src="https://aislike.rs/lako/van.webp"
+              src="/images/van.webp"
               alt="Prevoz putnika"
               className="w-full h-[400px] object-cover"
             />
@@ -149,7 +149,7 @@ export function UslugePage({ onNavigate }: UslugePageProps) {
           </div>
           <div className="rounded-2xl overflow-hidden shadow-lg">
             <img
-              src="https://aislike.rs/lako/aero.jpg"
+              src="/images/aero.jpg"
               alt="Transfer do aerodroma"
               className="w-full h-[400px] object-cover"
             />
